@@ -1,0 +1,2 @@
+# strapi
+Learning Strapi Course
